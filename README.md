@@ -3,7 +3,8 @@
 A professional, Python-based GUI application for controlling Keithley Source Measure Units (SMUs) for advanced electronic device characterization. This tool is especially useful for testing memristors and ReRAM devices.
 
  
-*(Tip: Take a screenshot of your app running and upload it to the repository, then replace this text with the image link)*
+![Uploading image.png…]()
+
 
 ##  Key Features
 

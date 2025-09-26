@@ -1,0 +1,8 @@
+# Required for instrument communication
+pyvisa
+
+# Required for numerical operations
+numpy
+
+# Required for plotting data
+matplotlib
